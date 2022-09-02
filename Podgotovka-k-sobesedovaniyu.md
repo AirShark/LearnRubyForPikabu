@@ -31,4 +31,6 @@ https://stackoverflow.com/questions/21666030/fizz-buzz-in-ruby-for-dummies
 
 Поскольку на собеседованиях часто разрешают гуглить, то я очень рекомендую держать открытыми эти 2 страницы:<br>
 http://komar.in/files/Ruby.pdf<br>
-http://rusrails.ru
+http://rusrails.ru<br><br><br>
+
+[Оглавление](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Мы в Telegram](https://t.me/LearnRubyForPikabu)
